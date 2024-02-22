@@ -1,5 +1,7 @@
 package boardgame;
 
+//encapsulamento dos campos e construtores e superclasse e o conceito de sobreposição com toString 
+
 public class Position {
 	private int row;
 	private int column;
